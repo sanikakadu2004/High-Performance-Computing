@@ -1,0 +1,6 @@
+Welcome To HPC Lab
+Practical 1
+Hello
+
+C
+

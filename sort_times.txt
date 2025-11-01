@@ -1,0 +1,3 @@
+STL_sort 0.003544
+qsort 0.001724
+BubbleSort 0.688755
